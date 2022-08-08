@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Gantari:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Pattaya&family=Tillana:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gantari:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&family=Gantari:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Pattaya&family=Tillana:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rosario:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carme&display=swap');
+.head {font-family:'Tillana', cursive; text-align: center; color: #f1f1f1;}
+body {font-family: 'Gantari', sans-serif; font-weight: bolder; background-color: #837d85;}
+.chadwick {float: left; border-radius: 100px 0px 100px 0px; margin-right: 20px; border: solid 5px;  }
+a {color: #e8dcf0;}
+.tv {border: double 10px;}
+.personal {border: dotted;}
+fieldset {max-width: 400px; border-color: #f3c6c6;  margin-left: 400px;}
+h3 {font-family: 'Carme', sans-serif;}
+h4 {font-family: 'Alegreya SC', serif; font-size: larger;}
+legend {font-weight: bolder; text-align: center;}
+button {background-color: #48483A; color: cornsilk;}
+ul {list-style: disc;}
+form {text-align: center;}
+.summary {font-family: 'Alegreya SC', serif; font-weight: bolder;}
+input {border-radius: 5px;}
+img {height: 200px; width: 200px; border-radius: 100px 100px 100px 100px; margin-right: 100px;}
+.extra {font-family: 'Rosario', sans-serif;}
+fieldset {align-self: center;}
