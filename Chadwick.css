@@ -9,7 +9,7 @@ body {font-family: 'Gantari', sans-serif; font-weight: bolder; background-color:
 a {color: #e8dcf0;}
 .tv {border: double 10px;}
 .personal {border: dotted;}
-fieldset {max-width: 400px; border-color: #f3c6c6;  margin-left: 400px;}
+fieldset {max-width: 400px; border-color: #f3c6c6;}
 h3 {font-family: 'Carme', sans-serif;}
 h4 {font-family: 'Alegreya SC', serif; font-size: larger;}
 legend {font-weight: bolder; text-align: center;}
