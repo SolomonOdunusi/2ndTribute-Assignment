@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Carme&display=swap');
 .head {font-family:'Tillana', cursive; text-align: center; color: #f1f1f1; background-color: #000000;}
 .head2 {padding-top: 20px;}
-body {font-family: 'Gantari', sans-serif; font-weight: bolder; background-color: #837d85;}
+body {font-family: 'Gantari', sans-serif; font-weight: 600; background-color: #837d85;}
 .chadwick {float: left; border-radius: 100px 0px 100px 0px; margin-right: 20px; border: solid 5px;  }
 a {color: #e8dcf0;}
 .tv {border: double 10px;}
